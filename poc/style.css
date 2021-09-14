@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+}
+
+.tool-bar{
+    height: 15vh;
+    display: flex;
+}
+
+.tool{
+    height: 80%;
+}
+
+#pencil,#eraser {
+    height: 100%;
+}
